@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Variables
-VERSION="v1.30.0"
+VERSION="v1.36.2"
 URL="https://dl.k8s.io/release/${VERSION}/bin/linux/amd64/kubectl"
 INSTALL_DIR="/usr/local/bin"
 
