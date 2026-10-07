@@ -5,7 +5,7 @@ metadata:
     app: vote
   name: vote
 spec:
-  replicas: 1
+  replicas: 3
   selector:
     matchLabels:
       app: vote
